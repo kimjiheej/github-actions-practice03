@@ -1,7 +1,7 @@
 name: Github Actions 실행시켜보기
 
 on:
-  pubh:
+  push:
     branches:
       - main
 
